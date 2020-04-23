@@ -1,6 +1,6 @@
 name = "workers-project-shen"
 type = "javascript"
-account_id = ""
+account_id = "5dc04bf6d16a75d621940fbc9536fa23"
 workers_dev = true
 route = ""
 zone_id = ""
